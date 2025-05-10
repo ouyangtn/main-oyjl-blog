@@ -38,8 +38,8 @@ $(".kz-nav-btn").on("click", function () {
 
 console.log(
   "\n" +
-    " %c KZHomePage v1.2.0 by kaygb " +
-    " %c https://blog.170601.xyz/archives/25.html " +
+    " %c OYJLHomePage v1.2.0 by kaygb " +
+    " %c https://oyjl-blog.vercel.app/ " +
     "\n" +
     "\n",
   "color: #fff; background: #fd79a8; padding:5px 0;",
