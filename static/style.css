@@ -117,16 +117,12 @@ strike {
 
 .btn-primary:hover {
     box-shadow: 5px -2px 15px 0px rgb(203, 221, 232);
-    color: #fff; 
-    border: none;
 }
 
 .btn-secondary {
     /* box-shadow: 0px 5px 15px 5px rgb(203, 221, 232); */
     padding: 12px 40px;
     transition: ease;
-    color: #fff; 
-    border: none;
 }
 
 .btn-secondary:hover {
@@ -138,9 +134,11 @@ strike {
     padding: 12px 40px;
     transition: ease;
 }
+.btn-success:hover {
+    box-shadow: 5px -2px 15px 0px rgb(203, 221, 232);
+}
 
 .btn-success1 {
-  
     padding: 12px 40px;
     transition: ease;
     background-color: rgb(255, 153, 187);
@@ -155,10 +153,6 @@ strike {
     color: #fff; 
     border: none; 
 }
-.btn-success:hover {
-    box-shadow: 5px -2px 15px 0px rgb(203, 221, 232);
-}
-/* 2025年9月8日 */
 .btn-success1:hover {
     box-shadow: 5px -2px 15px 0px rgb(255, 179, 204); /* 柔和粉红色：R=255, G=179, B=204 */
 }
@@ -166,7 +160,6 @@ strike {
 .btn-success2:hover {
     box-shadow: 5px -2px 15px 0px rgb(221, 179, 255); /* 柔和淡紫色：R=221, G=179, B=255 */
 }
-/* 2025年9月8日 */
 
 .social {
     padding-left: 0;
