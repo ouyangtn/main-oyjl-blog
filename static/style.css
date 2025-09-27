@@ -135,6 +135,18 @@ strike {
     transition: ease;
 }
 
+.btn-success1 {
+    /* box-shadow: 0px 5px 15px 5px rgb(203, 221, 232); */
+    padding: 12px 40px;
+    transition: ease;
+}
+
+.btn-success2 {
+    /* box-shadow: 0px 5px 15px 5px rgb(203, 221, 232); */
+    padding: 12px 40px;
+    transition: ease;
+}
+
 .btn-success:hover {
     box-shadow: 5px -2px 15px 0px rgb(203, 221, 232);
 }
